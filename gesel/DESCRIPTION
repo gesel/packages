@@ -1,0 +1,9 @@
+Package: gesel
+Type: Package
+Title: Datasets used by the GESEL
+Version: 0.1
+Date: 2018-09-18
+Author: Santiago Gualchi
+Maintainer: Santiago Gualchi <santiagogualchi@gmail.com>
+Description: Datasets used by the GESEL
+License: GPL-3
